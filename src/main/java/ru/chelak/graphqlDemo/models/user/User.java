@@ -1,11 +1,10 @@
-package ru.aristov.graphqlDemo.models.user;
+package ru.chelak.graphqlDemo.models.user;
 
 import jakarta.persistence.*;
 import lombok.*;
-import ru.aristov.graphqlDemo.models.food.Food;
+import ru.chelak.graphqlDemo.models.food.Food;
 
 import java.util.List;
-import java.util.Set;
 
 @Data
 @NoArgsConstructor

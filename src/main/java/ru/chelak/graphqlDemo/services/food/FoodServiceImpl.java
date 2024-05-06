@@ -1,9 +1,9 @@
-package ru.aristov.graphqlDemo.services.food;
+package ru.chelak.graphqlDemo.services.food;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import ru.aristov.graphqlDemo.models.food.Food;
-import ru.aristov.graphqlDemo.repositories.FoodRepository;
+import ru.chelak.graphqlDemo.models.food.Food;
+import ru.chelak.graphqlDemo.repositories.FoodRepository;
 
 import java.util.List;
 import java.util.Optional;

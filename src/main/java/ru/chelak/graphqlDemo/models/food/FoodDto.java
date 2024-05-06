@@ -1,4 +1,4 @@
-package ru.aristov.graphqlDemo.models.food;
+package ru.chelak.graphqlDemo.models.food;
 
 import lombok.*;
 

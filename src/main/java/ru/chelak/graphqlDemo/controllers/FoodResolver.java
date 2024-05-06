@@ -1,4 +1,4 @@
-package ru.aristov.graphqlDemo.controllers;
+package ru.chelak.graphqlDemo.controllers;
 
 import io.leangen.graphql.annotations.GraphQLArgument;
 import io.leangen.graphql.annotations.GraphQLMutation;
@@ -6,9 +6,9 @@ import io.leangen.graphql.annotations.GraphQLQuery;
 import io.leangen.graphql.spqr.spring.annotations.GraphQLApi;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
-import ru.aristov.graphqlDemo.models.food.Food;
-import ru.aristov.graphqlDemo.models.food.FoodDto;
-import ru.aristov.graphqlDemo.services.food.FoodServiceImpl;
+import ru.chelak.graphqlDemo.models.food.Food;
+import ru.chelak.graphqlDemo.models.food.FoodDto;
+import ru.chelak.graphqlDemo.services.food.FoodServiceImpl;
 
 import java.util.List;
 import java.util.Optional;

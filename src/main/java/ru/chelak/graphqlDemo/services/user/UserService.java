@@ -1,7 +1,7 @@
-package ru.aristov.graphqlDemo.services.user;
+package ru.chelak.graphqlDemo.services.user;
 
-import ru.aristov.graphqlDemo.models.user.User;
-import ru.aristov.graphqlDemo.services.BaseCRUDService;
+import ru.chelak.graphqlDemo.models.user.User;
+import ru.chelak.graphqlDemo.services.BaseCRUDService;
 
 import java.util.Optional;
 

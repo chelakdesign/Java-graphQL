@@ -1,10 +1,10 @@
-package ru.aristov.graphqlDemo.services.user;
+package ru.chelak.graphqlDemo.services.user;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import ru.aristov.graphqlDemo.models.user.User;
-import ru.aristov.graphqlDemo.models.user.UserStatus;
-import ru.aristov.graphqlDemo.repositories.UserRepository;
+import ru.chelak.graphqlDemo.models.user.User;
+import ru.chelak.graphqlDemo.models.user.UserStatus;
+import ru.chelak.graphqlDemo.repositories.UserRepository;
 
 import java.util.List;
 import java.util.Optional;

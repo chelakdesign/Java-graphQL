@@ -1,4 +1,4 @@
-package ru.aristov.graphqlDemo.configurations;
+package ru.chelak.graphqlDemo.configurations;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.context.annotation.Configuration;

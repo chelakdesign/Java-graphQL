@@ -1,4 +1,4 @@
-package ru.aristov.graphqlDemo.services;
+package ru.chelak.graphqlDemo.services;
 
 import java.util.List;
 import java.util.Optional;

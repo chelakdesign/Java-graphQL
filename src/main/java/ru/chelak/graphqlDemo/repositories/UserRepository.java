@@ -1,10 +1,10 @@
-package ru.aristov.graphqlDemo.repositories;
+package ru.chelak.graphqlDemo.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
-import ru.aristov.graphqlDemo.models.user.User;
+import ru.chelak.graphqlDemo.models.user.User;
 
 import java.util.Optional;
 

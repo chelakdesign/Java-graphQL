@@ -1,4 +1,4 @@
-package ru.aristov.graphqlDemo.models.user;
+package ru.chelak.graphqlDemo.models.user;
 
 public enum UserStatus {
     ACTIVE, BAN, DELETE
