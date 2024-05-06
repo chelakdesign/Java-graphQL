@@ -1,0 +1,25 @@
+spring:
+  graphql:
+    graphiql:
+      enabled: true
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+  datasource:
+    username: postgres
+    password: 1qazxsw2
+    url: jdbc:postgresql://localhost:5432/test_db
+
+  profiles:
+    active: development
+
+graphql:
+  spqr:
+    gui:
+      enabled: true
+      target-endpoint: /graphql
+      endpoint: /playground
+    base-packages: ru.aristov.graphqlDemo
+

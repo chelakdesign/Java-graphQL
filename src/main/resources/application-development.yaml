@@ -1,0 +1,5 @@
+#spring:
+#  datasource:
+#    username: postgres
+#    password: 1qazxsw2
+#    url: jdbc:postgresql://localhost:5432/test_db_dev
